@@ -27,7 +27,7 @@ theme = 'colordrop'
   [[menu.footer]]
   identifier = "email"
   name = "email"
-  url = "mailto:contact{a}cafelinear.com"
+  url = "mailto:c&#111;n&#116;&#097;c&#116;&#064;&#099;&#097;&#102;e&#108;i&#110;&#101;a&#114;&#046;c&#111;&#109;"
   weight = 5
 
 [params]
